@@ -2,7 +2,7 @@
 * A neural network is a type of **Machine Learning** process, called deep learning, that uses **interconnected** nodes or neurons in a layered structure that resembles the human brain. It creates an adaptive system that computers use to learn from their mistakes and improve continuously.  
 * This project applies three types of Neural Network (**RNN, CNN, MLP**) for Text Classification and compares their performance, such as accuracy on test data.  
 * The dataset has already been labeled as "positive" or "negative".
-*  
+
 ---
   
 <dl>
